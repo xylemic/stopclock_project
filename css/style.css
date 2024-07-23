@@ -77,3 +77,15 @@ button i {
 #reset-btn {
   background: #ff3e00;
 }
+
+/* media query */
+@media (max-width: 975px) {
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .container {
+    padding: 0 1.2rem;
+  }
+}
