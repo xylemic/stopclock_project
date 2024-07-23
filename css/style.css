@@ -80,8 +80,11 @@ button i {
 
 /* media query */
 @media (max-width: 975px) {
+  body {
+    color: #fff;
+  }
   h1 {
-    font-size: 2rem;
+    font-size: 2.8rem;
     text-align: center;
   }
 
